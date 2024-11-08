@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: #F1D88A; /* Full view background color */
+}
+
+.container {
+  flex: 1; /* Takes remaining space */
+  background-color: #F1D88A; /* Main background color */
+  color: #170F04;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+h1, h2 {
+  color: #8C363C;
+  text-align: center;
+}
+
+/* Other styles remain unchanged */
+
+
+
+
+
+
+
+
+/* Other styles remain unchanged */
